@@ -15,6 +15,7 @@ default: https://github.com/chriskempson/base16-default-schemes
 dirtysea: https://github.com/tartansandal/base16-dirtysea-scheme
 dracula: https://github.com/dracula/base16-dracula-scheme
 edge: https://github.com/cjayross/base16-edge-schemes
+embark: https://github.com/jonathannerat/base16-embark-schemes
 equilibrium: https://github.com/carloabelli/base16-equilibrium-scheme
 espresso: https://github.com/alexmirrington/base16-espresso-scheme
 eva: https://github.com/kjakapat/base16-eva-scheme
